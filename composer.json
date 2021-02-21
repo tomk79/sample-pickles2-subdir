@@ -27,7 +27,7 @@
         "px2package": {
             "name": "proj - sample-pickles2-subdir",
             "type": "project",
-            "path": "src_px2/.px_execute.php",
+            "path": "src_px2/subdir-site/.px_execute.php",
             "path_homedir": "px-files/"
         }
     },
