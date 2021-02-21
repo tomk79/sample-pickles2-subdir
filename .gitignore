@@ -3,6 +3,7 @@ Thumbs.db
 .~*.csv#
 ~$*
 !.gitkeep
+.phpunit.result.cache
 vendor/
 #composer.lock
 px-files/_sys/ram/
